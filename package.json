@@ -1,0 +1,31 @@
+{
+  "name": "set-value",
+  "version": "1.0.0",
+  "description": "This project is my first MVC pattern node express application. Created due to order from my boss, but practiced for CRUD r&d on nodejs.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "jade": "^1.11.0",
+    "mssql": "^7.3.0",
+    "tedious": "^14.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lustellz/study_node-CRUD-.git"
+  },
+  "keywords": [
+    "nodejs",
+    "CRUD"
+  ],
+  "author": "Tasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lustellz/study_node-CRUD-/issues"
+  },
+  "homepage": "https://github.com/Lustellz/study_node-CRUD-#readme"
+}

@@ -1,0 +1,13 @@
+
+.header{
+    display: flex;
+    flex-direction: column;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid;
+}

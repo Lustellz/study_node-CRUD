@@ -1,0 +1,12 @@
+include ./index
+
+h1 list
+div.order-lists
+    table
+        tr 
+            td contents
+        each item in list
+            tr
+
+                td iterable contents 
+                td= item.arg

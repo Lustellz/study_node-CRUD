@@ -1,0 +1,15 @@
+include ./index
+h1 new order
+div.order-form
+    form(action='/destination/add' method='post') 
+        span=param 
+        
+        contents
+
+div.hash-tags
+    table 
+     
+        each item in hashs
+            tr 
+                td iterables
+                td= item.arg
